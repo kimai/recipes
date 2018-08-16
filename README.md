@@ -27,7 +27,7 @@ The value of `Alias` is the identifier to be used when installing via `composer 
 ## Share your bundle
 
 - Create your repository and add all relevant stuff
-- Submit your composer package at [https://packagist.org/](packagist.org)
+- Submit your composer package at [packagist.org](https://packagist.org/)
 - Create your Flex recipe and send us a [pull request](https://github.com/kimai/recipes/pulls)
 
 ## Documentation
